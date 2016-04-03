@@ -1,2 +1,5 @@
 # hello-word
-lets get started
+
+Hey there!
+
+i'm new to github and look forward to learn things!
